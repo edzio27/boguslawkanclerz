@@ -421,9 +421,18 @@ ul.callbacks_tabs.callbacks1_tabs {
 	padding-top: 410px;
 	text-align: center;
 }
+.slider .caption h2 {
+    font-size: 70px;
+    color: #ecf0f1;
+    font-weight: 700;
+    line-height: 70px;
+    letter-spacing: -2px;
+    width: 74%;
+    margin: 0 auto;
+}
 .slider .caption h3 {
     font-size: 56px;
-    color: #FFF;
+    color: #ecf0f1;
     font-weight: 700;
     line-height: 70px;
     letter-spacing: -2px;
