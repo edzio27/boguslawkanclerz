@@ -1532,7 +1532,7 @@ h2.typoh2{
 /*--responsive design --*/
 @media (max-width: 991px){
 .hover-effect {
-    width: 90px;
+    width: 130px;
 }
 .hover-effect span {
     font-size: 0.95em;
@@ -2094,3 +2094,25 @@ input[type="text"] {
     font-size: 11px;
 }
 }
+/* Moje własne */
+.honoraryTitle {
+  color: #002663;
+  margin: .1em 0 0;
+  font-size: 1.7em;
+  font-family: 'Candal', sans-serif;
+}
+
+.honoraryTitle h4 {
+  color: #8F8F8F;
+  margin: .1em 0 0;
+  font-size: 20px;
+  font-family: 'Candal', sans-serif;
+}
+
+.honoraryEnum {
+  color: #212121;
+  margin-left: 40px;
+  font-size: 18px;
+  font-family: 'Candal', sans-serif;
+}
+
