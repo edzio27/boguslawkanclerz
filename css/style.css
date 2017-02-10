@@ -2116,3 +2116,22 @@ input[type="text"] {
   font-family: 'Candal', sans-serif;
 }
 
+.serviceTitle h4 {
+  color: #212121;
+  margin: .1em 0 0;
+  font-size: 16px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.serviceTitle {
+  color: #8F8F8F;
+  margin: .1em 0 0;
+  font-size: 16px;
+}
+
+.serviceEnum {
+	color: #8F8F8F;
+	margin-left: 40px;
+	font-size: 14px;
+	font-family: 'Candal', sans-serif;
+}
