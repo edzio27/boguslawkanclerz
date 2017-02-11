@@ -2103,16 +2103,16 @@ input[type="text"] {
 }
 
 .honoraryTitle h4 {
-  color: #8F8F8F;
+  color: #212121;
   margin: .1em 0 0;
-  font-size: 20px;
-  font-family: 'Candal', sans-serif;
+  font-size: 16px;
+  font-family: 'Raleway', sans-serif;
 }
 
 .honoraryEnum {
-  color: #212121;
+  color: #8F8F8F;
   margin-left: 40px;
-  font-size: 18px;
+  font-size: 15px;
   font-family: 'Candal', sans-serif;
 }
 
@@ -2132,6 +2132,35 @@ input[type="text"] {
 .serviceEnum {
 	color: #8F8F8F;
 	margin-left: 40px;
-	font-size: 14px;
+	font-size: 15px;
 	font-family: 'Candal', sans-serif;
+}
+
+.contactTitle {
+  color: #212121;
+  margin: .1em 0 0;
+  font-size: 16px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.contactTitle h3 {
+  color: #8F8F8F;
+  margin: .1em 0 0;
+  font-size: 16px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.contactDescription {
+	color: #8F8F8F;
+	margin-left: 40px;
+	font-size: 15px;
+	font-family: 'Candal', sans-serif;
+}
+
+.motto h4 {
+  color: #8F8F8F;
+  margin: .1em 0 0;
+  font-size: 16px;
+  font-family: 'Raleway', sans-serif;
+  font-style: italic;
 }
