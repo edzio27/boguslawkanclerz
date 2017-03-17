@@ -67,7 +67,7 @@ a:focus, a:hover {
 .navbar-default .navbar-brand {
 	color: #fff;
 	font-size: 50px;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Calibri', sans-serif;
 	margin: 0;
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
@@ -500,7 +500,7 @@ ul.callbacks_tabs.callbacks1_tabs {
 	color: #FFF;
 }
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
-	color: #212121;
+	color: #3F3F3F;
 }
 .tab-info p {
     line-height: 1.9em;
@@ -555,10 +555,10 @@ ul.callbacks_tabs.callbacks1_tabs {
     outline: none;
     width: 100%;
     background: none;
-    color:#212121;
+    color:#3F3F3F;
     font-size: 1em;
     padding: .7em 1em;
-    border: 1px solid #212121;
+    border: 1px solid #3F3F3F;
     margin: 4em 0 1.3em;
 }
 .news-right input[type="submit"] {
@@ -580,16 +580,16 @@ ul.callbacks_tabs.callbacks1_tabs {
 	color:#000;
 }
 .news-right ::-webkit-input-placeholder {
-	color:#212121 !important;
+	color:#3F3F3F !important;
 }
 .news-right :-moz-placeholder { /* Firefox 18- */
-	color:#212121 !important;
+	color:#3F3F3F !important;
 }
 .news-right ::-moz-placeholder {  /* Firefox 19+ */
-	color:#212121 !important;
+	color:#3F3F3F !important;
 }
 .news-right :-ms-input-placeholder {  
-	color:#212121 !important;
+	color:#3F3F3F !important;
 }
 .news-left.news-right {
     text-align: center;
@@ -611,7 +611,7 @@ ul.callbacks_tabs.callbacks1_tabs {
     background-size: cover;
 }
 .content-item .overlay {
-  border-bottom:100px solid #212121;
+  border-bottom:100px solid #3F3F3F;
   border-left: 100px solid transparent;
   bottom: 0;
   height: 0;
@@ -626,7 +626,7 @@ ul.callbacks_tabs.callbacks1_tabs {
   width: 0;
 }
 .content-item:hover .overlay {
-	border-bottom:1486px solid #212121;
+	border-bottom:1486px solid #3F3F3F;
     border-left: 776px solid transparent;
     -moz-transition: all 0.5s ease-out;
     -o-transition: all 0.5s ease-out;
@@ -722,7 +722,7 @@ ul.callbacks_tabs.callbacks1_tabs {
 .about-left h3 span {
     display: block;
     font-size: 1.5em;
-    color: #212121;
+    color: #3F3F3F;
     margin: .5em 0 0;
 }
 /*-- //about --*/
@@ -1063,7 +1063,7 @@ h4.title {
 }
 .services-1-top-breadcrumbs-left h3{
 	font-size:2em;
-	color:#212121;
+	color:#3F3F3F;
 }
 .services-1-top-breadcrumbs-right ul li{
 	display:inline-block;
@@ -1078,7 +1078,7 @@ h4.title {
 	text-decoration:none;
 }
 .services-1-top-breadcrumbs-right ul li a:hover{
-	color:#212121;
+	color:#3F3F3F;
 }
 .services-1-grids:nth-child(3){
 	margin:4em 0 2em;
@@ -1087,7 +1087,7 @@ h4.title {
 .services-1-grid-right h4{
 	   text-transform: capitalize;
     font-size: 1.5em;
-    color: #212121;
+    color: #3F3F3F;
     font-weight: 700;
     text-align: left;
 }
@@ -1104,7 +1104,7 @@ h4.title {
 .special-services-1-grid h4 {
     text-transform: capitalize;
     font-size: 1.5em;
-    color: #212121;
+    color: #3F3F3F;
     line-height: 1.5em;
     margin: 1em 0 .5em;
     font-weight: 700;
@@ -2116,52 +2116,52 @@ input[type="text"] {
 }
 
 .honoraryTitle h4 {
-  color: #212121;
+  color: #3F3F3F;
   margin: .1em 0 0;
-  font-size: 16px;
-  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+  font-family: 'Calibri', sans-serif;
 }
 
 .honoraryEnum {
-  color: #212121;
+  color: #3F3F3F;
   margin-left: 40px;
-  font-size: 16px;
-  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+  font-family: 'Calibri', sans-serif;
 }
 
 .serviceTitle h4 {
-  color: #212121;
+  color: #3F3F3F;
   margin: .1em 0 0;
   font-size: 15px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Calibri', sans-serif;
 }
 
 .serviceTitle {
-  color: #212121;
+  color: #3F3F3F;
   margin: .1em 0 0;
   font-size: 15px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Calibri', sans-serif;
 }
 
 .serviceEnum {
-	color: #212121;
+	color: #3F3F3F;
 	margin-left: 40px;
 	font-size: 15px;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Calibri', sans-serif;
 }
 
 .contactTitle {
-  color: #212121;
+  color: #3F3F3F;
   margin: .1em 0 0;
   font-size: 15px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Calibri', sans-serif;
 }
 
 .contactTitle h3 {
-  color: #212121;
+  color: #3F3F3F;
   margin: .1em 0 0;
   font-size: 15px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Calibri', sans-serif;
 }
 
 .contactDescription {
@@ -2172,38 +2172,38 @@ input[type="text"] {
 }
 
 .motto h4 {
-	color: #212121;
+	color: #3F3F3F;
 	margin-left: 30px;
 	font-size: 16px;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Calibri', sans-serif;
 	text-indent: 20px;
 }
 
 .motto p {
-	color: #212121;
-	font-size: 16px;
+	color: #3F3F3F;
+	font-size: 18px;
 	text-align: center;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Calibri', sans-serif;
 }
 
 .serviceGrid h4 {
-	color: #212121;
+	color: #3F3F3F;
 	font-size: 15px;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Calibri', sans-serif;
 }
 
 .serviceGrid p {
-	color: #212121;
+	color: #3F3F3F;
 	font-size: 14px;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Calibri', sans-serif;
 }
 
 .aboutDescription h4 {
-  color: #212121;
+  color: #3F3F3F;
   margin: .1em 0 0;
   font-size: 15px;
   text-indent: 20px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Calibri', sans-serif;
 }
 
 .inner {
