@@ -2124,16 +2124,17 @@ input[type="text"] {
 }
 
 .serviceTitle {
-  color: #8F8F8F;
+  color: #212121;
   margin: .1em 0 0;
   font-size: 16px;
+  font-family: 'Raleway', sans-serif;
 }
 
 .serviceEnum {
-	color: #8F8F8F;
+	color: #212121;
 	margin-left: 40px;
 	font-size: 15px;
-	font-family: 'Candal', sans-serif;
+	font-family: 'Raleway', sans-serif;
 }
 
 .contactTitle {
