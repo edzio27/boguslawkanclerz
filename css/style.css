@@ -2120,6 +2120,7 @@ input[type="text"] {
   margin: .1em 0 0;
   font-size: 15px;
   font-family: 'Calibri', sans-serif;
+  line-height: 150%;
 }
 
 .honoraryEnum {
@@ -2173,16 +2174,16 @@ input[type="text"] {
 
 .motto h4 {
 	color: #3F3F3F;
-	margin-left: 30px;
+	margin-left: 0px;
 	font-size: 16px;
 	font-family: 'Calibri', sans-serif;
-	text-indent: 20px;
+	text-indent: 0px;
 }
 
 .motto p {
 	color: #3F3F3F;
 	font-size: 18px;
-	text-align: center;
+	text-align: justify;
 	font-family: 'Calibri', sans-serif;
 }
 
@@ -2196,14 +2197,16 @@ input[type="text"] {
 	color: #3F3F3F;
 	font-size: 14px;
 	font-family: 'Calibri', sans-serif;
+	text-align: justify;
 }
 
 .aboutDescription h4 {
   color: #3F3F3F;
   margin: .1em 0 0;
   font-size: 15px;
-  text-indent: 20px;
+  text-indent: 0px;
   font-family: 'Calibri', sans-serif;
+  text-align: justify;
 }
 
 .inner {
